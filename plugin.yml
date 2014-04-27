@@ -1,0 +1,6 @@
+name: TeamTalk
+main: tt.TeamTalk
+version: 0.1
+commands:
+  team:
+    description: I am a command.
